@@ -13,9 +13,9 @@ public class MyFirstProgram {
         Square s = new Square(5);
         System.out.println("Площадь квадрата со стороной " + s.l + " = " + s.area());
 
-        Point x = new Point(1,3);
-        Point y = new Point(3, 7);
-        System.out.println("Расстояние от точки "+ x.p1 +" до " + y.p2 + " = " + Math.sqrt(x.distance() + y.distance()));
+//        Point x = new Point(1,3);
+  //      Point y = new Point(3, 7);
+    //    System.out.println("Расстояние от точки "+ x.p1 +" до " + y.p2 + " = " + Math.sqrt(x.distance() + y.distance()));
     }
 
     public static void hello(String a) {
