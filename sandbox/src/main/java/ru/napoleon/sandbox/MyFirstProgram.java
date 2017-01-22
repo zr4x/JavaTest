@@ -1,7 +1,5 @@
 package ru.napoleon.sandbox;
 
-import javax.xml.bind.SchemaOutputResolver;
-import java.util.concurrent.RecursiveAction;
 
 public class MyFirstProgram {
     public static void main(String[] args) {
